@@ -12,7 +12,7 @@ s.bgcolor("green")
 
 sec = dt.datetime.now().second
 min = dt.datetime.now().minute
-hr = dt.date.now().hour
+hr = dt.datetime.now().hour
 
 t1.pensize(3)
 t1.color('black')
